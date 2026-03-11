@@ -1,8 +1,16 @@
-feat: add live character counter with color-coded limits
+# DOM Practice - Character Counter
 
-- Implemented live character count on input
-- Color changes dynamically based on length:
-  - 0-50 chars → red
-  - 51-80 chars → orange
-  - 81+ chars → green
-- Updates paragraph in real-time as user types
+## Project Overview
+This project is a simple practice of JavaScript DOM manipulation.
+
+### Task Completed Today
+- Live **character counter** for input field
+- **Color-coded limits**:
+  - 0-50 characters → Red
+  - 51-80 characters → Orange
+  - 81+ characters → Green
+- Updates **in real-time** as user types
+
+## Author
+**Muhammad Sheraz**  
+BSCS Student | Full Stack Web Developer
